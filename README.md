@@ -1,12 +1,12 @@
 # onionshare-scripts
 
-**WIP** _These scripts are still being tested. I don't recommend using them on your main machine yet._
+**This is a work in progress.** _These scripts are still being tested. I don't recommend using them on your main machine yet._
 
 A collection of scripts to make the installation of OnionShare on Ubuntu simpler, especially for command-line users who wish to host a website.
 
 This repo is not affiliated with the official OnionShare development team.
 
-#OnionShare
+# OnionShare
 
 [OnionShare](https://github.com/micahflee/onionshare) is an amazing tool that allows people to send and receive files - and even host websites - over the Tor network.
 
