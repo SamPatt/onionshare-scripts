@@ -26,6 +26,10 @@ Open your terminal. Clone this repository:
 
 `git clone https://github.com/SamPatt/onionshare-scripts.git`
 
+Change into the directory:
+
+`cd onionshare-scripts`
+
 Choose which script you need below.
 
 ## install_onionshare.sh
