@@ -56,7 +56,7 @@ In the directory where you cloned this repo, run this command:
 
 `bash install_onionshare_website.sh`
 
-Please note this script will take a few minutes to run. This installs OnionShare but does not start it.
+Please note this script will take a few minutes to run. This installs OnionShare and starts it temporarily to create and then edit the settings files, then shuts OnionShare down. To start it again, use the run_onionshare_website.sh script.
 
 ## run_onionshare_website.sh
 
