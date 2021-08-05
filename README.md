@@ -1,6 +1,8 @@
-# onionshare-scripts
+# **DEPRECATED**
 
-**This is a work in progress.** _These scripts are still being tested. I don't recommend using them on your main machine yet._
+*Version 2.3 of Onionshare fixed the dependency issue and introduced onionshare-cli, making these scripts unnecessary.*
+
+# onionshare-scripts
 
 A collection of scripts to make the installation of OnionShare on Ubuntu simpler, especially for command-line users who wish to host a website.
 
@@ -11,6 +13,8 @@ This repo is not affiliated with the official OnionShare development team.
 [OnionShare](https://github.com/micahflee/onionshare) is an amazing tool that allows people to send and receive files - and even host websites - over the Tor network.
 
 # Who needs these scripts?
+
+*Version 2.3 of Onionshare fixed the dependency issue and introduced onionshare-cli, making these scripts unnecessary.*
 
 I discovered two issues when using OnionShare myself. The first is that there are dependency problems when installing on Ubuntu. This is a [known issue](https://github.com/micahflee/onionshare/issues/1052), and the [official workaround](https://github.com/micahflee/onionshare/wiki/How-Do-I-Install-Onionshare#problem-installing-due-to-python3-flask-httpauth-package-dependency) requires cloning the git repo, creating a python virtual environment, and installing the requirements via pip. A script makes this process simpler.
 
